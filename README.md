@@ -3,7 +3,6 @@
 # Tanya Tsodikovich. A web developer.
 ![Alt Text](https://media.giphy.com/media/XYot661SFS62c/giphy.gif)
 
-- 🌱 I’m currently learning web development in the online bootcamp Practicum by Yandex
 - 📫 How to reach me: www.linkedin.com/in/tanya-margulis-tsodikovich
 
 
