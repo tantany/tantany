@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-# Tanya Tsodikovich. A web developer.
+# Tanya Tsodikovich. A full-stack developer.
 ![Alt Text](https://media.giphy.com/media/XYot661SFS62c/giphy.gif)
 
 - 📫 How to reach me: www.linkedin.com/in/tanya-margulis-tsodikovich
